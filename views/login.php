@@ -14,7 +14,7 @@ if (isset($_POST['submit'])) {
 			<?php include('./views/includes/alerts.php')?>
 		    <div class="card">
 		    	<div class="card-header">
-		    		<h3 class="text-center">Inscription</h3>
+		    		<h3 class="text-center">Login</h3>
 		    	</div>
 		    	<div class="card-body bg-light">
 		    		<form method="post" class="mr-1" action="home">
